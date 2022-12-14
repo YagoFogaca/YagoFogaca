@@ -40,5 +40,6 @@ Here are some ideas to get you started:
     <a target="_blank" href="https://www.linkedin.com/in/yago-fogaça-5720a922b/">
       <img align="center" alt="Yago-Gmail" height="30" width="120" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    
 </div>
+
+  ![Snake animation](https://github.com/YagoFogaca/YagoFogaca/blob/output/github-contribution-grid-snake.svg)
