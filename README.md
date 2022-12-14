@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 </div>
   
   <div style="display: inline_block"><br>
-    <a href="https://gmail/yagofogaca20@gmail.com">
+    <a href="yagofogaca20@gmail.com">
       <img align="center" alt="Yago-Gmail" height="30" width="80" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
 </div>
